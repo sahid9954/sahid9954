@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm sahid raza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student of bmsit</h3>
 <img alin="right"alt="coading"width="400"src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahid9954&label=Profile%20views&color=0e75b6&style=flat" alt="sahid9954" /> </p>

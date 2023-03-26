@@ -28,9 +28,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-kumar-sahoo-260643229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ashish_kr_4k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashish_kr_4k_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ashish10112093@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sahid-raza-b6a44124b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sahid%20Raza-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/sahidraza9954/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahidraza9954_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:sahidraza9954@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahidraza9954@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [ashish4kmax](https://github.com/sahid9954)
+⭐️ From [sahid9954](https://github.com/sahid9954)

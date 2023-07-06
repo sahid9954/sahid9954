@@ -29,7 +29,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/sahid-raza-b6a44124b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sahid%20Raza-blue?style=flat-square&logo=linkedin"></a><br/>
 <a href="https://www.instagram.com/sahidraza9954/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahidraza9954_-blue?style=flat-square&logo=instagram"></a><br/>
 <a href="mailto:sahidraza9954@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahidraza9954@gmail.com-blue?style=flat-square&logo=gmail"></a>

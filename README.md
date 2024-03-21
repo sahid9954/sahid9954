@@ -4,11 +4,7 @@
 <img alin="right"alt="coading"width="400"src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahid9954&label=Profile%20views&color=0e75b6&style=flat" alt="sahid9954" /> </p>
-<center>
-<h1 style="text-align: center;"> Hey there! I'm Ashish. <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
 
-<h2 style="text-align: center;"> 👨🏻‍💻 &nbsp;About Me </h2>
-</center>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahid9954" alt="sahid9954" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and gonna improving with c++.**
